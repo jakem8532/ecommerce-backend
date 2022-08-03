@@ -26,7 +26,6 @@
   ### Step 2
 
   * Once you have installed the necessary modules, you can then create a .env file in your root directory, and fill it out to look like the following img:
-  [env file](./readme-img/env-ss.png)
 
   ### Step 3
 
